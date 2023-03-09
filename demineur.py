@@ -1,7 +1,5 @@
 """
-Nom - Touimer
-Prenom - Amin
-Matricule - 569450
+MINOU
 
 Jeu - Demineur
 
